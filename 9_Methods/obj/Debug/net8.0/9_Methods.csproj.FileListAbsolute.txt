@@ -1,0 +1,14 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\bin\Debug\net8.0\9_Methods.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\bin\Debug\net8.0\9_Methods.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\bin\Debug\net8.0\9_Methods.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\bin\Debug\net8.0\9_Methods.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\bin\Debug\net8.0\9_Methods.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\refint\9_Methods.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\9_Methods.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\9_Methods\obj\Debug\net8.0\ref\9_Methods.dll

@@ -1,0 +1,14 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\bin\Debug\net8.0\6_Conditional_Statement1.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\bin\Debug\net8.0\6_Conditional_Statement1.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\bin\Debug\net8.0\6_Conditional_Statement1.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\bin\Debug\net8.0\6_Conditional_Statement1.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\bin\Debug\net8.0\6_Conditional_Statement1.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\refint\6_Conditional_Statement1.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\6_Conditional_Statement1.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\6_Conditional_Statement1\obj\Debug\net8.0\ref\6_Conditional_Statement1.dll

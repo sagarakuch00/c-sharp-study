@@ -1,0 +1,14 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\bin\Debug\net8.0\OddEven1.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\bin\Debug\net8.0\OddEven1.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\bin\Debug\net8.0\OddEven1.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\bin\Debug\net8.0\OddEven1.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\bin\Debug\net8.0\OddEven1.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\refint\OddEven1.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\OddEven1.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\OddEven1\obj\Debug\net8.0\ref\OddEven1.dll

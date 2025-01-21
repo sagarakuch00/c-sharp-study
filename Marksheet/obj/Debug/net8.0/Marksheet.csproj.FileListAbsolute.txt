@@ -1,0 +1,14 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\bin\Debug\net8.0\Marksheet.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\bin\Debug\net8.0\Marksheet.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\bin\Debug\net8.0\Marksheet.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\bin\Debug\net8.0\Marksheet.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\bin\Debug\net8.0\Marksheet.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\refint\Marksheet.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\Marksheet.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C#2025\Marksheet\obj\Debug\net8.0\ref\Marksheet.dll
