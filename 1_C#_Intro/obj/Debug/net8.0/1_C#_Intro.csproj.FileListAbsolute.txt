@@ -1,0 +1,15 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\bin\Debug\net8.0\1_C#_Intro.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\bin\Debug\net8.0\1_C#_Intro.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\bin\Debug\net8.0\1_C#_Intro.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\bin\Debug\net8.0\1_C#_Intro.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\bin\Debug\net8.0\1_C#_Intro.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.sourcelink.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\refint\1_C#_Intro.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\1_C#_Intro.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_C#_Intro\obj\Debug\net8.0\ref\1_C#_Intro.dll

@@ -1,0 +1,15 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\bin\Debug\net8.0\2_String_functions.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\bin\Debug\net8.0\2_String_functions.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\bin\Debug\net8.0\2_String_functions.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\bin\Debug\net8.0\2_String_functions.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\bin\Debug\net8.0\2_String_functions.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.sourcelink.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\refint\2_String_functions.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\2_String_functions.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\2_String_functions\obj\Debug\net8.0\ref\2_String_functions.dll

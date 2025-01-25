@@ -1,0 +1,15 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\bin\Debug\net8.0\1_Datatype.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\bin\Debug\net8.0\1_Datatype.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\bin\Debug\net8.0\1_Datatype.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\bin\Debug\net8.0\1_Datatype.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\bin\Debug\net8.0\1_Datatype.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.sourcelink.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\refint\1_Datatype.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\1_Datatype.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\1_Datatype\obj\Debug\net8.0\ref\1_Datatype.dll

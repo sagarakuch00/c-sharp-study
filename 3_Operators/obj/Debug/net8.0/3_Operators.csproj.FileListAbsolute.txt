@@ -1,0 +1,15 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\bin\Debug\net8.0\3_Operators.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\bin\Debug\net8.0\3_Operators.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\bin\Debug\net8.0\3_Operators.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\bin\Debug\net8.0\3_Operators.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\bin\Debug\net8.0\3_Operators.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.sourcelink.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\refint\3_Operators.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\3_Operators.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\3_Operators\obj\Debug\net8.0\ref\3_Operators.dll
