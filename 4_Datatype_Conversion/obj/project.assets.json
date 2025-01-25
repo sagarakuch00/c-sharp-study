@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\4_Datatype_Conversion\\4_Datatype_Conversion.csproj",
+      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\4_Datatype_Conversion\\4_Datatype_Conversion.csproj",
       "projectName": "4_Datatype_Conversion",
-      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\4_Datatype_Conversion\\4_Datatype_Conversion.csproj",
+      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\4_Datatype_Conversion\\4_Datatype_Conversion.csproj",
       "packagesPath": "C:\\Users\\Sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\4_Datatype_Conversion\\obj\\",
+      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\4_Datatype_Conversion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

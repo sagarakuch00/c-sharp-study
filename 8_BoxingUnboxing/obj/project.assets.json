@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\8_BoxingUnboxing\\8_BoxingUnboxing.csproj",
+      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\8_BoxingUnboxing\\8_BoxingUnboxing.csproj",
       "projectName": "8_BoxingUnboxing",
-      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\8_BoxingUnboxing\\8_BoxingUnboxing.csproj",
+      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\8_BoxingUnboxing\\8_BoxingUnboxing.csproj",
       "packagesPath": "C:\\Users\\Sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\8_BoxingUnboxing\\obj\\",
+      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\8_BoxingUnboxing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

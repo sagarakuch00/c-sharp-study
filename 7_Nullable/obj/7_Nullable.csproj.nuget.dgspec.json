@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\7_Nullable\\7_Nullable.csproj": {}
+    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\7_Nullable\\7_Nullable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\7_Nullable\\7_Nullable.csproj": {
+    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\7_Nullable\\7_Nullable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\7_Nullable\\7_Nullable.csproj",
+        "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\7_Nullable\\7_Nullable.csproj",
         "projectName": "7_Nullable",
-        "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\7_Nullable\\7_Nullable.csproj",
+        "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\7_Nullable\\7_Nullable.csproj",
         "packagesPath": "C:\\Users\\Sagar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\7_Nullable\\obj\\",
+        "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\7_Nullable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

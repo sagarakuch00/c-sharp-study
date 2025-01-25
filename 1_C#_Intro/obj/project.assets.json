@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\1_C#_Intro\\1_C#_Intro.csproj",
+      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\1_C#_Intro\\1_C#_Intro.csproj",
       "projectName": "1_C#_Intro",
-      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\1_C#_Intro\\1_C#_Intro.csproj",
+      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\1_C#_Intro\\1_C#_Intro.csproj",
       "packagesPath": "C:\\Users\\Sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\1_C#_Intro\\obj\\",
+      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\1_C#_Intro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

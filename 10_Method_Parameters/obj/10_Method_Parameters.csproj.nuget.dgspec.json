@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\10_Method_Parameters\\10_Method_Parameters.csproj": {}
+    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\10_Method_Parameters\\10_Method_Parameters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\10_Method_Parameters\\10_Method_Parameters.csproj": {
+    "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\10_Method_Parameters\\10_Method_Parameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\10_Method_Parameters\\10_Method_Parameters.csproj",
+        "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\10_Method_Parameters\\10_Method_Parameters.csproj",
         "projectName": "10_Method_Parameters",
-        "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\10_Method_Parameters\\10_Method_Parameters.csproj",
+        "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\10_Method_Parameters\\10_Method_Parameters.csproj",
         "packagesPath": "C:\\Users\\Sagar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\10_Method_Parameters\\obj\\",
+        "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\10_Method_Parameters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

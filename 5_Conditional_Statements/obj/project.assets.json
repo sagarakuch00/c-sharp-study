@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\5_Conditional_Statements\\5_Conditional_Statements.csproj",
+      "projectUniqueName": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\5_Conditional_Statements\\5_Conditional_Statements.csproj",
       "projectName": "5_Conditional_Statements",
-      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\5_Conditional_Statements\\5_Conditional_Statements.csproj",
+      "projectPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\5_Conditional_Statements\\5_Conditional_Statements.csproj",
       "packagesPath": "C:\\Users\\Sagar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C#2025\\5_Conditional_Statements\\obj\\",
+      "outputPath": "C:\\Users\\Sagar\\OneDrive\\Desktop\\ApnaCollege\\C_SHARP\\C_2025\\5_Conditional_Statements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

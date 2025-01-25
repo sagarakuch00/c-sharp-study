@@ -1,0 +1,15 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\bin\Debug\net8.0\13_Calculator_App.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\bin\Debug\net8.0\13_Calculator_App.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\bin\Debug\net8.0\13_Calculator_App.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\bin\Debug\net8.0\13_Calculator_App.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\bin\Debug\net8.0\13_Calculator_App.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.sourcelink.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\refint\13_Calculator_App.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\13_Calculator_App.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\13_Calculator_App\obj\Debug\net8.0\ref\13_Calculator_App.dll

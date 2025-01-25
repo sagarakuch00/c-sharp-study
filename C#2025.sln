@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_Methods", "9_Methods\9_Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Method_Parameters", "10_Method_Parameters\10_Method_Parameters.csproj", "{DC3AE883-A845-4ECE-8825-C45200C6409B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_CoffeShopProgram", "12_CoffeShopProgram\12_CoffeShopProgram.csproj", "{717425FC-82F4-42D5-B776-0C492438E406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Calculator_App", "13_Calculator_App\13_Calculator_App.csproj", "{E818F7F3-F0C5-4015-9CF8-267913B46730}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{DC3AE883-A845-4ECE-8825-C45200C6409B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC3AE883-A845-4ECE-8825-C45200C6409B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC3AE883-A845-4ECE-8825-C45200C6409B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717425FC-82F4-42D5-B776-0C492438E406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717425FC-82F4-42D5-B776-0C492438E406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717425FC-82F4-42D5-B776-0C492438E406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717425FC-82F4-42D5-B776-0C492438E406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E818F7F3-F0C5-4015-9CF8-267913B46730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E818F7F3-F0C5-4015-9CF8-267913B46730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E818F7F3-F0C5-4015-9CF8-267913B46730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E818F7F3-F0C5-4015-9CF8-267913B46730}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

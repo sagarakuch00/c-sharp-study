@@ -1,0 +1,15 @@
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\bin\Debug\net8.0\12_CoffeShopProgram.exe
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\bin\Debug\net8.0\12_CoffeShopProgram.deps.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\bin\Debug\net8.0\12_CoffeShopProgram.runtimeconfig.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\bin\Debug\net8.0\12_CoffeShopProgram.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\bin\Debug\net8.0\12_CoffeShopProgram.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.AssemblyInfoInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.AssemblyInfo.cs
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.sourcelink.json
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\refint\12_CoffeShopProgram.dll
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.pdb
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\12_CoffeShopProgram.genruntimeconfig.cache
+C:\Users\Sagar\OneDrive\Desktop\ApnaCollege\C_SHARP\C_2025\12_CoffeShopProgram\obj\Debug\net8.0\ref\12_CoffeShopProgram.dll
